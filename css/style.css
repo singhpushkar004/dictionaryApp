@@ -1,0 +1,48 @@
+body{
+    font-family: "latto";
+    font-size: 20px;
+}
+#outer{
+    height: 500px;
+    width: 400px;
+    background-color: antiquewhite;
+    margin: 50px auto;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+#outer input{
+    height: 50px;
+    width: 80%;
+    margin: 50px auto;
+    padding: 10px;
+    border: 0;
+    border-radius:30px ;
+    margin-left: 30px;
+}
+#outer button{
+    height: 40px;
+    width: 110px;
+    border: 0px;
+    font-size: 20px;
+    color: white;
+    font-weight:bold;
+    background-color: #c03b3b;
+    margin-left: 150px;
+    border-radius: 10px;
+    
+}
+#meaning{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(213, 228, 228);
+    border-radius: 10px;
+}
+#outer h1{
+    margin: 15px auto;
+    margin-left: 90px;
+    color: red;
+    font-family: chiller;
+
+}
